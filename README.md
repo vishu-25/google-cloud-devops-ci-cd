@@ -1,1 +1,1 @@
-## GCP DevOps Project
+## Google Cloud Platform DevOps Project
