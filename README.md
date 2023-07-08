@@ -1,6 +1,6 @@
-## Google Cloud Platform DevOps Project
+# Google Cloud Platform DevOps Project
 
-# Tools used in the Project 
+## Tools used in the Project 
 1. [Git](https://git-scm.com/doc)
 2. [GitHub](https://docs.github.com/en)
 3. [Google Cloud Platform](https://cloud.google.com/docs) <br>
@@ -12,7 +12,7 @@
 
 
 
-# CI-CD Pipeline Plan
+## CI-CD Pipeline Plan
 
 ![CI-CD-Diagram](images/gcp-ci-cd-diagram.png)
 
